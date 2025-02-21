@@ -1,0 +1,5 @@
+/Users/tornikegomareli/Development/rustlings/target/debug/deps/libenums3_sol-6bb27468769d22d2.rmeta: solutions/08_enums/enums3.rs
+
+/Users/tornikegomareli/Development/rustlings/target/debug/deps/enums3_sol-6bb27468769d22d2.d: solutions/08_enums/enums3.rs
+
+solutions/08_enums/enums3.rs:
